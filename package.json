@@ -1,0 +1,31 @@
+{
+  "name": "accessibility-pa11y-aider",
+  "version": "1.0.0",
+  "description": "Aider for performing accessibility testing using pa11y and puppeteer",
+  "main": "index.js",
+  "keywords": [
+    "accessibility",
+    "pa11y",
+    "testing",
+    "a11y",
+    "html-codesniffer",
+    "axe",
+    "javascript",
+    "accessibility-testing",
+    "automation-testing",
+    "puppeteer"
+  ],
+  "author": "Dikshita Shirodkar",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "pa11y": "^6.2.3",
+    "pa11y-reporter-html": "^2.0.0",
+    "path": "^0.12.7",
+    "puppeteer": "^16.1.0",
+    "yargs": "^17.5.1"
+  },
+  "bin": {
+    "runAccessibility": "./bin/index.js"
+  }
+}
