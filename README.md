@@ -73,4 +73,4 @@ runAccessibility --test tests/firstTest.js
 ```
 
 #### Example
-Sample repository for [references]()
+Sample repository for [references](https://github.com/Dikshita25/pa11y-example-tests)
