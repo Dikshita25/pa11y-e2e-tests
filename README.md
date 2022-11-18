@@ -4,7 +4,7 @@ This package allows you to run accessibility tests using [Pa11y](https://pa11y.o
 #### Installation
 1. Install the package using command:
 ```
-npm install -g @pa11y/e2e-tests
+npm install -g pa11y-e2e-tests
 ```
 #### Configuration
 1. A configuration file should be created in-order to get started with accessibility testing, which will contain pre-defined test settings for running the tests againist browsers etc.
