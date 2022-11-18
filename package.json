@@ -1,14 +1,16 @@
 {
-  "name": "accessibility-pa11y-aider",
-  "version": "1.0.1",
-  "description": "Aider for performing accessibility testing using pa11y and puppeteer",
+  "name": "@pa11y/e2e-tests",
+  "version": "1.0.2",
+  "description": "E2E framework for performing accessibility testing using pa11y and puppeteer",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dikshita25/accessibility-pa11y-aider.git"
+    "url": "git+https://github.com/Dikshita25/pa11y-e2e-tests.git"
   },
   "main": "index.js",
   "keywords": [
     "accessibility",
+    "framework",
+    "e2e",
     "pa11y",
     "testing",
     "a11y",
